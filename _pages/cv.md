@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **PhD in Computer Science**, University of Colorado Boulder, Spring 2024 — Present
-* **Master of Science in Computer Science**, University of Colorado Boulder, Fall 2022 — Present
+* **PhD in Computer Science**, University of Colorado Boulder, Spring 2025 — Present
+* **Master of Science in Computer Science**, University of Colorado Boulder, Fall 2022 — Fall 2024
   * GPA: 3.9/4.0
 * **Bachelor of Technology in Computer Science and Engineering**, PES University, Graduated May 2020
   * GPA: 9.25/10.0
