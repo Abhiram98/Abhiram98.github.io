@@ -7,9 +7,9 @@ date: 2025-10-01
 venue_short: "ICSME 2025"
 venue_full: "International Conference on Software Maintenance and Evolution (ICSME)"
 track: "Research Track"
-authors: "Abhiram Bellur, Fraol Batole, Mohammed Raihan Ullah, Malinda Dilhara, Yaroslav Zharov, Timofey Bryksin, Kai Ishikawa, Haifeng Chen, Masaharu Morimoto, Takeo Hosomi, Tien Nguyen, Hridesh Rajan, Nikolaos Tsantalis and Danny Dig"
+authors: "Abhiram Bellur, Fraol Batole, Mohammed Raihan Ullah, Malinda Dilhara, Yaroslav Zharov, Timofey Bryksin, Kai Ishikawa, Haifeng Chen, Masaharu Morimoto, Takeo Hosomi, Tien N Nguyen, Hridesh Rajan, Nikolaos Tsantalis and Danny Dig"
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HMEaM2MAAAAJ&citation_for_view=HMEaM2MAAAAJ:zYLM7Y9cAGgC'
-citation: 'A Bellur, F Batole, MR Ullah, M Dilhara, Y Zharov, T Bryksin, K Ishikawa, ... (2025). &quot;Together We Are Better: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring.&quot; <i>International Conference on Software Maintenance and Evolution (ICSME)</i>.'
+citation: 'A Bellur, F Batole, MR Ullah, M Dilhara, Y Zharov, T Bryksin, K Ishikawa, H Chen, M Morimoto, T Hosomi, TN Nguyen, H Rajan, N Tsantalis, D Dig (2025). &quot;Together We Are Better: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring.&quot; <i>International Conference on Software Maintenance and Evolution (ICSME)</i>.'
 ---
 
 [Additional details about the paper can be added here.]
