@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abhiram Bellur 👨🏽‍💻🔬"
+title: "Abhiram Bellur"
 author_profile: true
 redirect_from: 
   - /about/
