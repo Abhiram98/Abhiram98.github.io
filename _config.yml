@@ -12,7 +12,7 @@ title                    : "Abhiram Bellur"
 title_separator          : "-"
 name                     : &name "Abhiram Bellur"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Abhiram98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Abhiram98/Abhiram98.github.io"
 
@@ -21,10 +21,10 @@ repository               : "Abhiram98/Abhiram98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Abhiram Bellur"
-  pronouns         : # example: "she/her"  
-  bio              : "Masters Student"
+  pronouns         : "he/him"
+  bio              : "2nd year PhD Student"
   location         : "Boulder"
   employer         : "University of Colorado"
   uri              : # URL
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Abhiram98"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "abhiram-bellur"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -200,18 +200,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: false
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
 
 
 # Defaults
