@@ -8,7 +8,7 @@ venue_short: "arXiv 2026"
 venue_full: "arXiv preprint arXiv:2601.00482"
 track: "Research Track"
 authors: "Abhiram Bellur, Mohammed Raihan Ullah, Fraol Batole, Mohit Kansara, Masaharu Morimoto, Kai Ishikawa, Haifeng Chen, Yaroslav Zharov, Timofey Bryksin, Tien N Nguyen, Hridesh Rajan and Danny Dig"
-paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HMEaM2MAAAAJ&citation_for_view=HMEaM2MAAAAJ:Y0pCki6q_DkC'
+paperurl: 'https://arxiv.org/abs/2601.00482'
 citation: 'A Bellur, MR Ullah, F Batole, M Kansara, M Morimoto, K Ishikawa, H Chen, Y Zharov, T Bryksin, TN Nguyen, H Rajan, D Dig (2026). &quot;Multi-Agent Coordinated Rename Refactoring.&quot; <i>arXiv preprint arXiv:2601.00482</i>.'
 ---
 

@@ -8,7 +8,7 @@ venue_short: "arXiv 2025"
 venue_full: "arXiv preprint arXiv:2503.20934"
 track: "Research Track"
 authors: "Abhiram Bellur, Fraol Batole, Mohammed Raihan Ullah, Malinda Dilhara, Yaroslav Zharov, Timofey Bryksin, Kai Ishikawa, Haifeng Chen, Masaharu Morimoto, Shota Motoura, Takeo Hosomi, Tien N Nguyen, Hridesh Rajan, Nikolaos Tsantalis and Danny Dig"
-paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HMEaM2MAAAAJ&citation_for_view=HMEaM2MAAAAJ:UeHWp8X0CEIC'
+paperurl: 'https://arxiv.org/abs/2503.20934'
 citation: 'A Bellur, F Batole, MR Ullah, M Dilhara, Y Zharov, T Bryksin, K Ishikawa, H Chen, M Morimoto, S Motoura, T Hosomi, TN Nguyen, H Rajan, N Tsantalis, D Dig (2025). &quot;Leveraging LLMs, IDEs, and semantic embeddings for automated move method refactoring.&quot; <i>arXiv preprint arXiv:2503.20934</i>.'
 ---
 

@@ -8,7 +8,7 @@ venue_short: "arXiv 2024"
 venue_full: "arXiv preprint arXiv:2401.15298"
 track: "Research Track"
 authors: "Dorin Pomian, Abhiram Bellur, Malinda Dilhara, Zarina Kurbatova, Egor Bogomolov, Timofey Bryksin and Danny Dig"
-paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HMEaM2MAAAAJ&citation_for_view=HMEaM2MAAAAJ:u5HHmVD_uO8C'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10795061/'
 citation: 'D Pomian, A Bellur, M Dilhara, Z Kurbatova, E Bogomolov, T Bryksin, D Dig (2024). &quot;Next-generation refactoring: Combining llm insights and ide capabilities for extract method.&quot; <i>arXiv preprint arXiv:2401.15298</i>.'
 ---
 
