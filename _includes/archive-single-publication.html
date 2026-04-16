@@ -15,7 +15,7 @@
           {% endif %}
         </h3>
         <p class="archive__item-authors" style="margin:5px 0;">
-          {{ post.authors }}
+          {{ post.authors | replace: 'Abhiram Bellur', '<strong>Abhiram Bellur</strong>' | replace: 'A Bellur', '<strong>A Bellur</strong>' }}
         </p>
         <p class="archive__item-venue" style="font-size:0.9em; color:#666;">
           {{ post.venue_full }} {% if post.track %}- {{ post.track }}{% endif %}
