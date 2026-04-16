@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-07-01-unprecedented-code-automation
 excerpt: 'Fusing LLMs with transformation-by-example for improved code change automation.'
 date: 2024-07-01
-venue_short: "FSE 24"
+venue_short: "FSE 2024"
 venue_full: "Foundations of Software Engineering (FSE)"
 track: "Research Track"
 authors: "Malinda Dilhara, Abhiram Bellur, Timofey Bryksin and Danny Dig"

@@ -2,7 +2,6 @@
 title: "Together We Are Better: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring"
 collection: publications
 permalink: /publication/2025-10-01-better-move-method
-excerpt: 'ICSME 2025 paper on move method refactoring assistance.'
 date: 2025-10-01
 venue_short: "ICSME 2025"
 venue_full: "International Conference on Software Maintenance and Evolution (ICSME)"
